@@ -1,4 +1,9 @@
-//Add your Javadoc comment with your name and course here
+/**
+ * The program calculates US income tax owed depending on the paramater the user inputs
+ * 
+ * CIS 36B
+ * @author Dylan Lam
+ */
 
 import java.util.Scanner;
 
