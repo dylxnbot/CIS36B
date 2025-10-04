@@ -1,0 +1,3 @@
+Statistics for Le Point Mirabeau:
+Word count: 130
+Line count: 31

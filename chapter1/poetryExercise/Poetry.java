@@ -5,6 +5,8 @@
  * @author Dylan Lam
  */
 
+package poetryExercise;
+
 import java.io.*;
 import java.util.Scanner;
 
