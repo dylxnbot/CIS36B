@@ -15,7 +15,6 @@ public class FileChange {
         Scanner scnr = new Scanner(System.in);
         String word;
         String modded;
-        int i;
 
         String userFile = scnr.next(); // Reading filename that user inputs
         File inFile = new File(userFile); // Opens file using filename that the user inputs

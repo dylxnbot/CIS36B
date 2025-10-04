@@ -14,7 +14,7 @@ public class Poetry {
 
 	public static void main(String[] args) throws IOException{ //update this line
 		Scanner input = new Scanner(System.in);
-		String word, line, title;
+		String title;
 		int count = 0;
 		
         // Asking for user input
