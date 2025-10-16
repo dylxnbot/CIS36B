@@ -1,0 +1,20 @@
+bear
+black
+blue
+cat
+cow
+dog
+fall
+gray
+green
+purple
+red
+spring
+summer
+to be
+to be able
+to go
+to love
+white
+winter
+yellow

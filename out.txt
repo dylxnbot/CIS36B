@@ -1,0 +1,20 @@
+0. bear: oso
+1. black: negro
+2. blue: azul
+3. cat: gato
+4. cow: vaca
+5. dog: perro
+6. fall: otono
+7. gray: gris
+8. green: verde
+9. purple: morado
+10. red: rojo
+11. spring: primavera
+12. summer: verano
+13. to be: ser
+14. to be able: poder
+15. to go: ir
+16. to love: amar
+17. white: blanco
+18. winter: invierno
+19. yellow: amarillo
