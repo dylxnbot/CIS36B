@@ -1,20 +1,195 @@
-0. bear: oso
-1. black: negro
-2. blue: azul
-3. cat: gato
-4. cow: vaca
-5. dog: perro
-6. fall: otono
-7. gray: gris
-8. green: verde
-9. purple: morado
-10. red: rojo
-11. spring: primavera
-12. summer: verano
-13. to be: ser
-14. to be able: poder
-15. to go: ir
-16. to love: amar
-17. white: blanco
-18. winter: invierno
-19. yellow: amarillo
+Afgha
+Alban
+Alger
+Andor
+Angol
+Antig
+Argen
+Armen
+Austr
+Austr
+Azerb
+Baham
+Bahra
+Bangl
+Barba
+Belar
+Belgi
+Beliz
+Benin
+Bhuta
+Boliv
+Bosni
+Botsw
+Brazi
+Brune
+Bulga
+Burki
+Burun
+Cabo 
+Cambo
+Camer
+Canad
+Centr
+Chad	
+Chile
+China
+Colom
+Comor
+Congo
+Costa
+Côte
+Croat
+Cuba	
+Cypru
+Czech
+Democ
+Democ
+Denma
+Djibo
+Domin
+Domin
+Ecuad
+Egypt
+El Sa
+Equat
+Eritr
+Eston
+Eswat
+Ethio
+Fiji	
+Finla
+Franc
+Gabon
+Gambi
+Georg
+Germa
+Ghana
+Greec
+Grena
+Guate
+Guine
+Guine
+Guyan
+Haiti
+Hondu
+Hunga
+Icela
+India
+Indon
+Iran	
+Iraq	
+Irela
+Israe
+Italy
+Jamai
+Japan
+Jorda
+Kazak
+Kenya
+Kirib
+Kuwai
+Kyrgy
+Laos	
+Latvi
+Leban
+Lesot
+Liber
+Libya
+Liech
+Lithu
+Luxem
+Madag
+Malaw
+Malay
+Maldi
+Mali	
+Malta
+Marsh
+Mauri
+Mauri
+Mexic
+Micro
+Monac
+Mongo
+Monte
+Moroc
+Mozam
+Myanm
+Namib
+Nauru
+Nepal
+Nethe
+New Z
+Nicar
+Niger
+Niger
+North
+Norwa
+Oman	
+Pakis
+Palau
+Panam
+Papua
+Parag
+Peru	
+Phili
+Polan
+Portu
+Qatar
+Repub
+Repub
+Roman
+Russi
+Rwand
+Saint
+Saint
+Saint
+Samoa
+San M
+Sao T
+Saudi
+Seneg
+Serbi
+Seych
+Sierr
+Singa
+Slova
+Slove
+Solom
+Somal
+South
+South
+Spain
+Sri L
+State
+Sudan
+Surin
+Swede
+Switz
+Syria
+Tajik
+Thail
+Timor
+Togo	
+Tonga
+Trini
+Tunis
+Türk
+Turkm
+Tuval
+Ugand
+Ukrai
+Unite
+Unite
+Unite
+Unite
+Urugu
+Uzbek
+Vanua
+Vatic
+Venez
+Vietn
+Yemen
+Zambi
+Zimba

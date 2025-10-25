@@ -1,0 +1,196 @@
+195
+Afghanistan	Kabul
+Albania	Tirana
+Algeria	Algiers
+Andorra	Andorra la Vella
+Angola	Luanda
+Antigua and Barbuda	St. John’s
+Argentina	Buenos Aires
+Armenia	Yerevan
+Australia	Canberra
+Austria	Vienna
+Azerbaijan	Baku
+Bahamas	Nassau
+Bahrain	Manama
+Bangladesh	Dhaka
+Barbados	Bridgetown
+Belarus	Minsk
+Belgium	Brussels
+Belize	Belmopan
+Benin	Porto-Novo
+Bhutan	Thimphu
+Bolivia	Sucre (constitutional and judicial); La Paz (administrative)
+Bosnia and Herzegovina	Sarajevo
+Botswana	Gaborone
+Brazil	Brasília
+Brunei	Bandar Seri Begawan
+Bulgaria	Sofia
+Burkina Faso	Ouagadougou
+Burundi	Gitega
+Cabo Verde	Praia
+Cambodia	Phnom Penh
+Cameroon	Yaoundé
+Canada	Ottawa
+Central African Republic	Bangui
+Chad	N’Djamena
+Chile	Santiago
+China	Beijing
+Colombia	Bogotá
+Comoros	Moroni
+Congo (Republic of the Congo)	Brazzaville
+Costa Rica	San José
+Côte d’Ivoire (Ivory Coast)	Yamoussoukro
+Croatia	Zagreb
+Cuba	Havana
+Cyprus	Nicosia
+Czechia (Czech Republic)	Prague
+Democratic People’s Republic of Korea (North Korea)	Pyongyang
+Democratic Republic of the Congo	Kinshasa
+Denmark	Copenhagen
+Djibouti	Djibouti City
+Dominica	Roseau
+Dominican Republic	Santo Domingo
+Ecuador	Quito
+Egypt	Cairo
+El Salvador	San Salvador
+Equatorial Guinea	Malabo
+Eritrea	Asmara
+Estonia	Tallinn
+Eswatini	Mbabane (executive); Lobamba (legislative)
+Ethiopia	Addis Ababa
+Fiji	Suva
+Finland	Helsinki
+France	Paris
+Gabon	Libreville
+Gambia	Banjul
+Georgia	Tbilisi
+Germany	Berlin
+Ghana	Accra
+Greece	Athens
+Grenada	St. George’s
+Guatemala	Guatemala City
+Guinea	Conakry
+Guinea Bissau	Bissau
+Guyana	Georgetown
+Haiti	Port-au-Prince
+Honduras	Tegucigalpa
+Hungary	Budapest
+Iceland	Reykjavík
+India	New Delhi
+Indonesia	Jakarta
+Iran	Tehran
+Iraq	Baghdad
+Ireland	Dublin
+Israel	Jerusalem (limited recognition)
+Italy	Rome
+Jamaica	Kingston
+Japan	Tokyo
+Jordan	Amman
+Kazakhstan	Astana
+Kenya	Nairobi
+Kiribati	Tarawa
+Kuwait	Kuwait City
+Kyrgyzstan	Bishkek
+Laos	Vientiane
+Latvia	Riga
+Lebanon	Beirut
+Lesotho	Maseru
+Liberia	Monrovia
+Libya	Tripoli
+Liechtenstein	Vaduz
+Lithuania	Vilnius 
+Luxembourg	Luxembourg City
+Madagascar	Antananarivo
+Malawi	Lilongwe
+Malaysia	Kuala Lumpur
+Maldives	Malé
+Mali	Bamako
+Malta	Valletta
+Marshall Islands	Majuro
+Mauritania	Nouakchott
+Mauritius	Port Louis
+Mexico	Mexico City
+Micronesia	Palikir
+Monaco	Monaco
+Mongolia	Ulaanbaatar 
+Montenegro	Podgorica
+Morocco	Rabat
+Mozambique	Maputo
+Myanmar	Naypyidaw
+Namibia	Windhoek
+Nauru	Yaren (de facto)
+Nepal	Kathmandu
+Netherlands	Amsterdam
+New Zealand	Wellington
+Nicaragua	Managua
+Niger	Niamey
+Nigeria	Abuja
+North Macedonia	Skopje
+Norway	Oslo
+Oman	Muscat
+Pakistan	Islamabad
+Palau	Ngerulmud
+Panama	Panama City
+Papua New Guinea	Port Moresby
+Paraguay	Asunción
+Peru	Lima
+Philippines	Manila
+Poland	Warsaw
+Portugal	Lisbon
+Qatar	Doha
+Republic of Korea (South Korea)	Seoul
+Republic of Moldova	Chișinău
+Romania	Bucharest
+Russia	Moscow
+Rwanda	Kigali
+Saint Kitts and Nevis	Basseterre
+Saint Lucia	Castries
+Saint Vincent and the Grenadines	Kingstown
+Samoa	Apia
+San Marino	San Marino
+Sao Tome and Principe	São Tomé
+Saudi Arabia	Riyadh
+Senegal	Dakar
+Serbia	Belgrade
+Seychelles	Victoria
+Sierra Leone	Freetown
+Singapore	Singapore
+Slovakia	Bratislava
+Slovenia	Ljubljana
+Solomon Islands	Honiara
+Somalia	Mogadishu
+South Africa	Pretoria (executive); Cape Town (legislative); Bloemfontein (judicial)
+South Sudan	Juba
+Spain	Madrid
+Sri Lanka	Sri Jayawardenepura Kotte (legislative); Colombo (executive and judicial)
+State of Palestine	Jerusalem (limited recognition)
+Sudan	Khartoum
+Suriname	Paramaribo
+Sweden	Stockholm
+Switzerland	Bern
+Syria	Damascus
+Tajikistan	Dushanbe
+Thailand	Bangkok
+Timor-Leste (East Timor)	Dili
+Togo	Lomé
+Tonga	Nukuʻalofa
+Trinidad and Tobago	Port of Spain
+Tunisia	Tunis
+Türkiye (Turkey)	Ankara
+Turkmenistan	Ashgabat
+Tuvalu	Funafuti
+Uganda	Kampala
+Ukraine	Kyiv
+United Arab Emirates	Abu Dhabi
+United Kingdom	London
+United Republic of Tanzania	Dodoma
+United States of America	Washington, D.C.
+Uruguay	Montevideo
+Uzbekistan	Tashkent
+Vanuatu	Port Vila
+Vatican City	Vatican City
+Venezuela	Caracas
+Vietnam	Hanoi
+Yemen	Sanaa
+Zambia	Lusaka
+Zimbabwe	Harare

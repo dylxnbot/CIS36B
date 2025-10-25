@@ -1,21 +1,40 @@
-0. bear: oso
-1. black: negro
-2. blue: azul
-3. book: libro
-4. cat: gato
-5. cow: vaca
-6. dog: perro
-7. fall: otono
-8. gray: gris
-9. green: verde
-10. purple: morado
-11. red: rojo
-12. spring: primavera
-13. summer: verano
-14. to be: ser
-15. to be able: poder
-16. to go: ir
-17. to love: amar
-18. white: blanco
-19. winter: invierno
-20. yellow: amarillo
+bear
+el oso
+black
+negro
+blue
+azul
+cat
+el gato
+cow
+la vaca
+dog
+el perro
+fall
+el otono
+gray
+gris
+green
+verde
+purple
+morado
+red
+rojo
+spring
+la primavera
+summer
+el verano
+to be
+ser
+to be able
+poder
+to go
+ir
+to love
+amar
+winter
+el invierno
+white
+blanco
+yellow
+amarillo
