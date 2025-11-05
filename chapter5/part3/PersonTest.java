@@ -1,9 +1,11 @@
+package part3;
 /**
  * @author Dylan Lam
  * CIS 36B
  */
 
 import java.util.Scanner;
+
 import java.io.*;
 
 public class PersonTest {

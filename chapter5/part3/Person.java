@@ -1,3 +1,4 @@
+package part3;
 /**
  * @author Dylan Lam
  * CIS 36B
@@ -10,7 +11,6 @@ public class Person {
     private String nationality;
 
     // Setters
-
     /**
      * Method name: setName
      * Modifies the name field
@@ -42,7 +42,6 @@ public class Person {
     }
 
     // Getters
-
     /**
      * Method name: getNationality
      * Returns the name field

@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Arrays;
+//import java.util.Arrays;
 
 public class Entries {
     final static int FIVE = 5;

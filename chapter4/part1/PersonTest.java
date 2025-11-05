@@ -1,3 +1,4 @@
+package part1;
 /**
 * @author Dylan Lam
 * CIS 36B

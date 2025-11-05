@@ -1,0 +1,209 @@
+package exercise;
+/**
+ * @author Dylan Lam
+ *         CIS 36B
+ */
+
+public class Person {
+    // Member variables
+    private String name;
+    private int age;
+    private String nationality;
+    private Address address;
+    private static int numPersons = 0;
+
+    // Constructors
+    /**
+     * Constructor that takes in no parameters and sets the parameters to defualt
+     * values
+     */
+    public Person() {
+        name = "name unknown";
+        age = 0;
+        nationality = "nationality unknown";
+        address = new Address();
+    }
+
+    /**
+     * Constructor that takes in three parameters and sets the parameters to the
+     * parameter values
+     * 
+     * @param personName        the name the user input
+     * @param personAge         the age the user input
+     * @param personNationality the nationality the user input
+     * @param personAddress     the address of the user
+     */
+    public Person(String personName, int personAge, String personNationality, Address personAddress) {
+        name = personName;
+        age = personAge;
+        nationality = personNationality;
+        address = personAddress;
+    }
+
+    /**
+     * Copy constructor that takes in one parameters and sets the parameters to the
+     * first objects' values
+     *
+     * @param the object being copied
+     */
+    public Person(Person other) {
+        this();
+        if (other == null) {
+            this.name = "name unknown";
+            this.age = 0;
+            this.nationality = "nationality unknown";
+            this.address = new Address();
+            return;
+        }
+        this.name = other.name;
+        this.age = other.age;
+        this.nationality = other.nationality;
+        if (other.address != null) {
+            this.address = new Address(other.address);
+        } else {
+            this.address = new Address();
+        }
+    }
+
+    // Setters
+    /**
+     * Method name: setName
+     * Modifies the name field
+     * 
+     * @param name sets this.name to name
+     */
+    public void setName(String personName) {
+        name = personName;
+    }
+
+    /**
+     * Method name: setAge
+     * Modifies the age field
+     * 
+     * @param age sets this.age to age
+     */
+    public void setAge(int personAge) {
+        age = personAge;
+    }
+
+    /**
+     * Method name: setNationality
+     * Modifies the nationality field
+     * 
+     * @param nationality sets this.nationality to nationality
+     */
+    public void setNationality(String personNationality) {
+        nationality = personNationality;
+    }
+
+    /**
+     * Method name: setAddress
+     * Modifies the address field
+     * 
+     * @param personAddress sets this.nationality to nationality
+     */
+    public void setAddress(Address personAddress) {
+        address = personAddress;
+    }
+    // END OF SETTERS
+
+    // Getters
+    /**
+     * Method name: getNationality
+     * Returns the name field
+     * 
+     * @return the name field
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * Method name: getAge
+     * Returns the age field
+     * 
+     * @return the age field
+     */
+    public int getAge() {
+        return age;
+    }
+
+    /**
+     * Method name: getNationality
+     * Returns the nationality field
+     * 
+     * @return the nationality field
+     */
+    public String getNationality() {
+        return nationality;
+    }
+
+    /**
+     * Method name: getAddress
+     * Returns the address field
+     * 
+     * @return the address field
+     */
+    public Address getAddress() {
+        return address;
+    }
+
+    /**
+     * Method name: getNumPersons
+     * Returns an int
+     * 
+     * @return returns the numPersons
+     */
+    public static int getNumPersons() {
+        return numPersons;
+    }
+    // END OF GETTERS
+
+
+    /**
+     * Method name: increaseNumPersons
+     * Incremements the value of numPersons by 1
+     */
+    public static void increaseNumPersons() {
+        numPersons += 1;
+    }
+
+    /**
+     * Method name: greeting
+     * Prints out a greeting followed by a new line
+     */
+    public void greeting() {
+        System.out.println("Hi, my name is " + name + "!");
+    }
+
+    /**
+     * Method name: otherName
+     * Prints out a greeting followed by a new line
+     * 
+     * @param otherName the string parameter for the other person's name
+     */
+    public void greeting(String otherName) {
+        System.out.println("Hi, " + name + "!");
+    }
+
+    /**
+     * Method name: addYear
+     * Adds 1 year to the objects age
+     */
+    public void addYear() {
+        age += 1;
+    }
+
+    /**
+     * Method name: toString
+     * 
+     * @return returns the information of a Student object
+     */
+    @Override
+    public String toString() {
+        return "Name: " + name +
+         "\nAge: " + age +
+         "\nNationality: " + nationality +
+         "\nAddress: " + address.toString();
+    }
+}
